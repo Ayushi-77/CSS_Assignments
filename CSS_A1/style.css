@@ -1,0 +1,36 @@
+h1{
+    color: red;
+}
+h2{
+    color: rgb(40, 226, 40);
+    font-style: italic;
+}
+span{
+    background-color: yellow;
+    font-weight: bold;
+}
+.underline{
+    font-style: italic;
+    text-decoration: underline;
+}
+.list{
+    letter-spacing: 5px;
+    color: brown;
+}
+h3{
+    color: brown;
+    font-weight: lighter;
+}
+.para1{
+    color: brown;
+    font-size: xx-small;
+}
+.para2{
+    color: brown;
+    font-style: italic;
+}
+a{
+    color: brown;
+    background-color: yellow;
+    text-decoration: none;
+}
